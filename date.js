@@ -49,3 +49,5 @@ fadeInterval = setInterval(function(){
 		fadeinInterval = setInterval(fadein, 50);
 	}
 }, 50)
+console.log(new Date());
+console.log(start);
